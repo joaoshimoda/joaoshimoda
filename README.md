@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu sou o João 👋
 
-<!--
-**joaoshimoda/joaoshimoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projeto em destaque
 
-Here are some ideas to get you started:
+**[Finync](https://github.com/joaoshimoda/finync-app)** · [finync.com.br](https://finync.com.br) · [demonstração](https://finync.com.br/demo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gerenciador financeiro pessoal em produção. Controla cartões e faturas pela competência certa, importa faturas em PDF (com OCR), CSV e OFX, separa gastos de dependentes e projeta quanto vai sobrar no fim do mês.
+
+`Next.js 16` `React 19` `TypeScript` `Supabase` `Tailwind CSS` `Playwright`
+
+### Contato
+
+📫 arrudajoao.03@hotmail.com
